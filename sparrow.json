@@ -2,7 +2,7 @@
     "name": "python-echo-script",
     "version": "0.1.0",
     "description" : "this is my simple echo script",
-    "caterogy" : "utilities",
+    "category" : "utilities",
     "url" : "https://github.com/melezhik/python-echo-script"
 }
 
